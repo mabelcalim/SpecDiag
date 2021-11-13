@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Calim"
+  given-names: "Mabel"
+  orcid: "https://orcid.org/0000-0003-3787-3983"
+title: "The Spectral Diagram "
+version: 1.0
+date-released: 2021-11-12
+url: "https://github.com/mabelcalim/Spectral-Diagram"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Calim"
+    given-names: "Mabel"
+    orcid: "https://orcid.org/0000-0003-3787-3983"
+  doi: "https://doi.org/10.1016/j.cageo.2021.104977"
+  journal: "Computers & Geosciences"
+  month: 11
+  start: 104977 # First page number
+  title: "The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides,"
+  year: 2021
