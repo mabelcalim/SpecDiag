@@ -31,33 +31,6 @@ First steps:
     git clone https://github.com/mabelcalim/Spectral-Diagram.git
     cd Spectral-Diagram/
 
-A local install can be done using the provided setup.py file:
-
-    python3 setup.py install
-
-The installation path can be changed using the **--prefix** switch, e.g.:
-
-    python setup.py install --prefix $HOME/inst
-
-Make sure to add the corresponding paths to your ``$PATH`` and ``$PYTHONPATH``
-environment variables. Alternatively, if the **--user** switch can be used:
-
-    export PYTHONUSERBASE=$HOME/inst/pip_installs
-    export PYTHONPATH=$HOME/inst/pip_installs/lib/python2.7/\
-        site-packages/:$PYTHONPATH
-    export PATH=$HOME/inst/pip_installs/bin:$PATH
-    python setup.py install --user
-
-If you plan on modifying the code, use the **develop** target in combination
-with the **--user** swich:
-
-    export PYTHONUSERBASE=$HOME/inst/pip_installs
-    export PYTHONPATH=$HOME/inst/pip_installs/lib/python2.7/\
-        site-packages/:$PYTHONPATH
-    export PATH=$HOME/inst/pip_installs/bin:$PATH
-    python setup.py develop --user
-
-The first three lines should also be included in the **$HOME/.bashrc** file.
 
 Support Group
 ==============
