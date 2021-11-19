@@ -2,7 +2,7 @@
 
 This repo refers to this article:
 
-    Calim et al., 2021: The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides, Computers and Geosciences, 2021,104977,ISSN 0098-3004,
+    Calim Costa et al., 2021: The Spectral Diagram as a new tool for model assessment in the frequency domain: Application to a global ocean general circulation model with tides, Computers and Geosciences, 2021,104977,ISSN 0098-3004,
 
   [CAGEO](https://doi.org/10.1016/j.cageo.2021.104977)
   [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0098300421002612)
