@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Calim"
-  given-names: "Mabel Costa"
+- family-names: "Calim Costa"
+  given-names: "Mabel"
   orcid: "https://orcid.org/0000-0003-3787-3983"
 - family-names: "Nobre"
   given-names: "Paulo"
