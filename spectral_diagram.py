@@ -67,7 +67,7 @@ def coherence(ts1,ts2):
 
 
 def Spectral_diagram(series,s_name,f,namefig):
-    """ Taylor Diagram : obs is reference data sample
+    """ Spec Diagram : obs is reference data sample
         in a full diagram (0 --> npi)
         --------------------------------------------------------------------------
         Input: ref_phi - freq of reference  -- > lead to a phase reference
@@ -279,7 +279,7 @@ def Spectral_diagram(series,s_name,f,namefig):
     fig.text (.78, .25,"(C)",horizontalalignment='right',fontsize=16)
     fig.text (.2, .2,"(D)",horizontalalignment='right',fontsize=16)
     plt.savefig('%s.png'%namefig,bbox_inches='tight')
-    #fig.text (.5, .95,"SPECTRAL Taylor Diagram",horizontalalignment='center',fontsize=16)
+    #fig.text (.5, .95,"SPECTRAL Diagram",horizontalalignment='center',fontsize=16)
     pylab.show()
     return
 
